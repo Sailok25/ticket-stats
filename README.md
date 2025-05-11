@@ -16,3 +16,8 @@ El token está protegido en un archivo `.env` (no incluido en el repositorio).
 
 ```bash
 npm install
+```
+
+Luego, crea un archivo .env con: `DISCORD_TOKEN=TU_TOKEN_AQUI`
+
+Inicia el bot con: `node index.js`
